@@ -39,6 +39,7 @@ smallfont = pygame.font.SysFont('comicsansms', 25)
 medfont = pygame.font.SysFont('comicsansms', 50)
 largefont = pygame.font.SysFont('comicsansms', 80)
 
+
 # function for pausing the game
 def pause():
     paused = True
@@ -66,6 +67,7 @@ def pause():
 
         #gameDisplay.fill(green)
                 clock.tick(5)
+
 
 # function to display score
 def score(score):
