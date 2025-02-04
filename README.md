@@ -7,5 +7,6 @@ This is the classic snake game that I have tried to recreate here, using the Pyg
 System Requirements -
 Python 3.8+
 Pygame 2.0+
+
 No other system requirements are there in my knowledge.
 Feel free to reach me is case of any suggestions or query.
