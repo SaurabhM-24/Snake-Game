@@ -43,10 +43,10 @@ largefont = pygame.font.SysFont('comicsansms', 80)
 # function for pausing the game
 def pause():
     paused = True
+    
     message_to_screen('Paused', red, -100, size = 'large')
     message_to_screen('Press A to continue, C to restart and Q to quit.', black)
     pygame.display.update()
-
 
     while paused:
         for event in pygame.event.get():
