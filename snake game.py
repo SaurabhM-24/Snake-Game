@@ -21,6 +21,7 @@ block_size = 20
 gameDisplay = pygame.display.set_mode((display_width,display_height))
 pygame.display.set_caption('Snake Game')
 
+
 icon = pygame.image.load('snakehead.png')
 pygame.display.set_icon(icon)
 
