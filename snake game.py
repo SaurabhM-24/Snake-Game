@@ -1,6 +1,7 @@
 import pygame
 import random
 
+
 pygame.init()
 # set variables for color
 black = (0,0,0)
