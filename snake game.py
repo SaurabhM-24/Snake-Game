@@ -16,6 +16,7 @@ AppleThickness = 20         # size of apple and drawing it
 #1 block size of snake
 block_size = 20
 
+
 #Display colored box for background and game caption
 gameDisplay = pygame.display.set_mode((display_width,display_height))
 pygame.display.set_caption('Snake Game')
